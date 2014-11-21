@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'imocom';
-$db['default']['password'] = 'L3v5t2Wrl2';
-$db['default']['database'] = 'imocom_imo4';
+$db['default']['username'] = 'imo';
+$db['default']['password'] = 'password';
+$db['default']['database'] = 'imo';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
